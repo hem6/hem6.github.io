@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        "https://w3id.org/security/v1"
+    ],
+    "id": "https://hem6.github.io/users/hem6",
+    "type": "Person",
+    "inbox": "https://hem6.github.io/users/hem6/inbox",
+    "outbox": "https://hem6.github.io/users/hem6/outbox",
+    "preferredUsername": "hem6",
+    "name": "へむろく💪🐧💪",
+    "summary": "<p>テストアカウント</p>",
+    "url": "https://hem6.github.io/users/hem6",
+    "published": "2023-01-29T06:12:00Z",
+    "publicKey": {
+        "id": "https://hem6.github.io/users/hem6#main-key",
+        "owner": "https://hem6.github.io/users/hem6",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyvLfJoSSdx/wOxk92dPG\nbWhoxlSD5JyWaOfgs+yOSRtsjkVRfVTBGBkIOoIQbVwftIZWaordlbhY3KdXaTYV\nuRU1YAGcRpmGU7ys5my17SfbiC+bB8liQ39n0UrZT78hhdt+O5nmLSj+3tLcCqyl\njS/UtzYNCOKAIBHd9Kqdm0DiDDq5kOv+aXP8O0xu7TJ9kmydvjRkrTuC61mKltFH\nFx1DShjwI7lzXPeZVCpa/0GFR9gmq1s7juHfMaO9EZy3x3+dCI+AMtCb+6s5obQg\nZazd0HXj7vmZE49CfQFDZ+Nxp8bK11RkKS/kh9A4sh9PMxmAIgZHaOK0oREYi2fl\nDQIDAQAB\n-----END PUBLIC KEY-----"
+    },
+    "icon": {
+        "type": "Image",
+        "mediaType": "image/jpeg",
+        "url": "https://hem6.github.io/users/hem6.jpeg"
+    }
+}

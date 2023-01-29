@@ -1,1 +1,10 @@
-{"subject":"acct:hem6@mstdn.jp","aliases":["https://mstdn.jp/@hem6","https://mstdn.jp/users/hem6"],"links":[{"rel":"http://webfinger.net/rel/profile-page","type":"text/html","href":"https://mstdn.jp/@hem6"},{"rel":"self","type":"application/activity+json","href":"https://mstdn.jp/users/hem6"},{"rel":"http://ostatus.org/schema/1.0/subscribe","template":"https://mstdn.jp/authorize_interaction?uri={uri}"}]}
+{
+    "subject": "acct:hem6@hem6.github.io",
+    "links": [
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://hem6.github.io/users/hem6"
+        }
+    ]
+}
